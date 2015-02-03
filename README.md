@@ -1,5 +1,6 @@
 # AvaTax-CSCart
-AvaTax for CS Cart integration source code and release notes
+AvaTax for CS Cart integration source code and release notes.
+
 Release notes can be accessed from :
 https://help.avalara.com/004_AvaTax_Integrations/CS-Cart/Avalara_AvaTax_for_CS-Cart_Release_Guides/Avalara_AvaTax_for_CS-Cart_Release_Guide
 
