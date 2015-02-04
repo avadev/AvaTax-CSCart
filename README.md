@@ -10,17 +10,3 @@ https://help.avalara.com/004_AvaTax_Integrations/CS-Cart/Avalara_AvaTax_for_CS-C
 For user guide and exploring how this integration works, please visit Avalara Help Center at
 https://help.avalara.com/004_AvaTax_Integrations/CS-Cart
 
-Contents:
-
-Sample Files
-CancelTaxTest.php	Demonstrates the CancelTax method used to void a document.
-EstimateTaxTest.php	Demonstrates the EstimateTax method used for product- and line- indifferent tax estimates.
-GetTaxTest.php	Demonstrates the GetTax method used for product- and line- specific calculation.
-PingTest.php	Uses a hardcoded EstimateTax call to test connectivity and credential information.
-ValidateAddressTest.php	Demonstrates the ValidateAddress method to normalize an address.
-Other Files
-AvaTaxClasses/	Contains the core classes that make the service calls.
-.gitattributes	-
-.gitignore	-
-LICENSE.md	-
-README.md	-
